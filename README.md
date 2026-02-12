@@ -11,9 +11,10 @@ If not:
 
 To stop at any time:
 > Ctrl + C
-# Example output (copy/paste)
-![screenshot of JSON summary](/images/json_summary.png)
+# Example output screenshot 
+![screenshot of JSON summary](/json_summary.png)
 
+# Example output (copy/paste)
 app-1  | === Summary ===
 
 app-1  | {
